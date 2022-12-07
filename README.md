@@ -3,6 +3,8 @@
 
 ##Classic Porsche selling app
 
+This will be coded in REACT
+
 - The Core plan is to build a UI that would have a Instagram / Facebook style feed where a user can view classic porsches that are for sale. 
 
 - **what type of useability should my app have ?**
