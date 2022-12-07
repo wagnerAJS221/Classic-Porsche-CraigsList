@@ -16,3 +16,19 @@ This will be coded in REACT
 6. There should be a Header that will allow the user to Navigate through the app and change pages from Main feed to 'About Us' and search functionality/filter functionality. 
 
 
+## MVP !
+- What is the minimum Functionality the app should have? ***my MVP***
+    - **MVP 1.0**
+    - Correct layout and grid structure
+    - Basic CSS is functioning and I am happy with it
+    - images rendering in the feed
+    
+    - **MVP 1.2**
+    - working made up data
+    - scrollable - Back to top functionality’ when feed is finished
+    - Useable header / Task bar that will navigate you to the correct page.
+    
+    - **MVP 1.3**
+    - able to view a car profile & owner contact details
+    - ‘comment section in the car profile area where you can check if it is availible or not
+    - filter feed by car type and car price
