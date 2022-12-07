@@ -13,3 +13,6 @@ This will be coded in REACT
 3. User can view car profile and can see owners contact details as well as a comment section to check availability
 4. User able to filter the feed via car type, price and 
 5. User can hit ‘back to top’ button when the end of the feed is reached.
+6. There should be a Header that will allow the user to Navigate through the app and change pages from Main feed to 'About Us' and search functionality/filter functionality. 
+
+
