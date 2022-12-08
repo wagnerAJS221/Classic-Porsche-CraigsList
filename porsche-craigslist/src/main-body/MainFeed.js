@@ -56,7 +56,10 @@ function MainFeed() {
         <h1>Porsches Galore</h1>
         <div className="single-post">
           <h3>car title to go here</h3>
-          <p>porsche image to go here</p>
+          <img
+            alt="porsche car"
+            src="porsche-craigslist\Assets\Image2.jpg"
+          ></img>
         </div>
         <div className="single-post">
           <h3>car title to go here</h3>
