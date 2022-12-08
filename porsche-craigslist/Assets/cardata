@@ -4,25 +4,34 @@
       "id": 1,
       "title": "json-server",
       "description": "Porsche 911",
-      "userName": "typicode",
-      "imageUrl": "/assets/porche1.png",
-      "price": 32000
+      "owner": "",
+      "imageUrl": "porsche-craigslistAssetssinger-anglet-commission-porsche-911.jpg",
+      "price": 32000,
+      "location": "",
+      "engine": "",
+      "mileage": ""
     },
     {
       "id": 2,
       "title": "json-server",
       "description": "Porsche 911",
-      "userName": "typicode",
-      "imageUrl": "/assets/porche1.png",
-      "price": 32000
+      "owner": "",
+      "imageUrl": "porsche-craigslistAssetssinger-anglet-commission-porsche-911.jpg",
+      "price": 32000,
+      "location": "",
+      "engine": "",
+      "mileage": ""
     },
     {
       "id": 3,
       "title": "json-server",
       "description": "Porsche 911",
-      "userName": "typicode",
+      "owner": "",
       "imageUrl": "porsche-craigslistAssetssinger-anglet-commission-porsche-911.jpg",
-      "price": 32000
+      "price": 32000,
+      "location": "",
+      "engine": "",
+      "mileage": ""
     }
   ]
 }
