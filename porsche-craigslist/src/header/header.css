@@ -1,0 +1,20 @@
+.Header {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+  text-align: left;
+  background-color: lightslategray;
+}
+
+.heading-title {
+  margin-left: 50px;
+}
+.header-buttons {
+  margin-top: 20px;
+  text-align: center;
+}
+.header-btn {
+  height: 30px;
+  width: 70px;
+  margin: 10px;
+}

@@ -1,0 +1,22 @@
+.Main {
+  height: 100vh;
+  padding: 1rem;
+
+  display: grid;
+  grid-template-columns: 0.3fr 1fr 0.5fr;
+  grid-gap: 1rem;
+  justify-content: center;
+}
+.car-feed {
+  height: auto;
+  padding: 1rem;
+
+  display: grid;
+  grid-template-rows: auto 1fr 1fr;
+  grid-gap: 1rem;
+  border: 2px solid rgb(0, 0, 0);
+  overflow-y: scroll;
+}
+.single-post {
+  border: 2px solid black;
+}

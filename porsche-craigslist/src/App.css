@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(gray, black),
+    url
+      (
+        'C:\Users\alexa\Documents\boolean\Personal Project\classic-porsche-craigslist\porsche-craigslist\Assets\singer-anglet-commission-porsche-911.jpg'
+      );
+}
